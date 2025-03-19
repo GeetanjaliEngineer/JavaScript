@@ -1,10 +1,10 @@
-const name ="gitanjali"
+const name ="geetanjali"
 const repoCount = 50
 
 // console.log(name + repoCount + "Value");
 console.log('Hello My Name is ${name} and my repo count is${repoCount}');
 
-const gameName = new String ('gitanjali');
+const gameName = new String ('geetanjali');
 
 // console.log(gameName[0]);
 // console.log(gameName.__proto__);
