@@ -7,4 +7,4 @@ for (let i = 1; i <= 10; i++) {
 function isEvenOrOdd(num) {
     return num % 2 === 0 ? "Even" : "Odd";
 }
-console.log(isEvenOrOdd(5)); // Odd
+console.log("this number is:" + isEvenOrOdd(5)); // Odd
